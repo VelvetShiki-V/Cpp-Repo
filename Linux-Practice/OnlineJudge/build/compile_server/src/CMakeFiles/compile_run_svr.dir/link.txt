@@ -1,0 +1,1 @@
+/opt/rh/devtoolset-9/root/usr/bin/c++ CMakeFiles/compile_run_svr.dir/compile_run.cc.o -o /home/shiki/linux_-practice/OnlineJudge/bin/compile_run_svr  /usr/lib64/libjsoncpp.so -lpthread 

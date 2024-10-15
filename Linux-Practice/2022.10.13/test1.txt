@@ -1,0 +1,7 @@
+nothing
+hello fwrite
+hello fwrite
+hello fwrite
+hello fwrite
+append
+append1

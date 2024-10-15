@@ -1,0 +1,5 @@
+两道LeetCode题：
+1. 2022.5.22.cpp为栈实现队列，队列实现栈功能的测试主函数
+2. Stack_Queue.h为两个实现的具体函数声明
+3. QueueToStack.cpp为使用队列实现栈的功能定义
+4. StackToQueue.cpp为使用栈实现队列的功能定义

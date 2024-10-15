@@ -1,0 +1,6 @@
+﻿  ADTMain.cpp
+D:\Code\Data Structure\SequenceList\FuncDeclare.h(1,1): warning C4828: 文件包含在偏移 0x221 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  Func.cpp
+D:\Code\Data Structure\SequenceList\FuncDeclare.h(1,1): warning C4828: 文件包含在偏移 0x221 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  正在生成代码...
+  SequenceList.vcxproj -> D:\Code\Data Structure\SequenceList\x64\Debug\SequenceList.exe

@@ -1,0 +1,6 @@
+makefile
+myshell
+myshell.c
+output.txt
+test.c
+nice

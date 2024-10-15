@@ -1,0 +1,2 @@
+打开的fd文件为：1
+this is output test!

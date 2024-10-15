@@ -1,0 +1,1 @@
+/opt/rh/devtoolset-9/root/usr/bin/c++ CMakeFiles/oj_server.dir/oj_server.cc.o -o /home/shiki/linux_-practice/OnlineJudge/bin/oj_server  -lpthread /usr/lib64/libboost_system.so /usr/local/lib/libctemplate.a 

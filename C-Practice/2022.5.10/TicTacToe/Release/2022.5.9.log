@@ -1,0 +1,8 @@
+﻿  EasyChess.cpp
+D:\Code\刷题\2022.5.9\Func.h(1,1): warning C4828: 文件包含在偏移 0x29a 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  正在生成代码
+  1 of 20 functions ( 5.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  2022.5.9.vcxproj -> D:\Code\刷题\2022.5.9\Release\2022.5.9.exe

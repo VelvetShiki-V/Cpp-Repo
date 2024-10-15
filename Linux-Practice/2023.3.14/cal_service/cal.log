@@ -1,0 +1,24 @@
+[NORMAL] | [1678869062] sid: 21442
+[NORMAL] | [1678869062] sock create done
+[NORMAL] | [1678869062] server bind done
+[NORMAL] | [1678869062] server listening...
+[NORMAL] | [1678869062] TcpServer initialization done
+[NORMAL] | [1678869062] task registration done
+[NORMAL] | [1678869073] sock create done
+[NORMAL] | [1678869073] client quest accept done
+[NORMAL] | [1678869076] dataset obtained and ready to handle
+[NORMAL] | [1678869076] result obtained and sent back done
+[NORMAL] | [1678869084] dataset obtained and ready to handle
+[NORMAL] | [1678869084] result obtained and sent back done
+[NORMAL] | [1678869087] dataset obtained and ready to handle
+[NORMAL] | [1678869087] result obtained and sent back done
+[NORMAL] | [1678869092] dataset obtained and ready to handle
+[ERROR] | [1678869092] 运算符解析失败
+[NORMAL] | [1678869092] result obtained and sent back done
+[NORMAL] | [1678869095] dataset obtained and ready to handle
+[ERROR] | [1678869095] 除0错误
+[NORMAL] | [1678869095] result obtained and sent back done
+[ERROR] | [1678869160] 对端关闭, 接收数据量为0
+[ERROR] | [1678869160] no data obtained, current task quit
+[NORMAL] | [1678869160] task execution done
+[NORMAL] | [1678869160] task finished, ready for the next...

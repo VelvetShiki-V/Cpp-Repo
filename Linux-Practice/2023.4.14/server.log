@@ -1,0 +1,86 @@
+[DEBUG] | [1681736682] | sock: 3 registration done
+[NORMAL] | [1681736682] | server init done, listen_sock: 3, epoll_sock: 4
+[DEBUG] | [1681736686] | sock wait succ, counts: 1 fds are ready to handle
+[NORMAL] | [1681736686] | get a client
+[DEBUG] | [1681736686] | sock: 5 registration done
+[DEBUG] | [1681736686] | client ip:[127.0.0.1] port[58618], service_sock: 5 accepted succ
+[ERROR] | [1681736686] | no connection ready-11:Resource temporarily unavailable
+[DEBUG] | [1681736688] | sock wait succ, counts: 1 fds are ready to handle
+[DEBUG] | [1681736688] | sock: 5 数据发送完成，发送缓冲区已空
+[DEBUG] | [1681736704] | sock wait succ, counts: 1 fds are ready to handle
+[NORMAL] | [1681736704] | get a client
+[DEBUG] | [1681736704] | sock: 6 registration done
+[DEBUG] | [1681736704] | client ip:[127.0.0.1] port[58620], service_sock: 6 accepted succ
+[ERROR] | [1681736704] | no connection ready-11:Resource temporarily unavailable
+[DEBUG] | [1681736707] | sock wait succ, counts: 1 fds are ready to handle
+[NORMAL] | [1681736707] | get a client
+[DEBUG] | [1681736707] | sock: 7 registration done
+[DEBUG] | [1681736707] | client ip:[127.0.0.1] port[58622], service_sock: 7 accepted succ
+[ERROR] | [1681736707] | no connection ready-11:Resource temporarily unavailable
+[DEBUG] | [1681736707] | sock wait succ, counts: 1 fds are ready to handle
+[NORMAL] | [1681736707] | get a client
+[DEBUG] | [1681736707] | sock: 8 registration done
+[DEBUG] | [1681736707] | client ip:[127.0.0.1] port[58624], service_sock: 8 accepted succ
+[ERROR] | [1681736707] | no connection ready-11:Resource temporarily unavailable
+[DEBUG] | [1681736710] | sock wait succ, counts: 1 fds are ready to handle
+[DEBUG] | [1681736710] | sock: 8 数据发送完成，发送缓冲区已空
+[DEBUG] | [1681736711] | sock wait succ, counts: 1 fds are ready to handle
+[DEBUG] | [1681736711] | sock: 6 数据发送完成，发送缓冲区已空
+[DEBUG] | [1681736713] | sock wait succ, counts: 1 fds are ready to handle
+[DEBUG] | [1681736713] | sock: 7 数据发送完成，发送缓冲区已空
+[DEBUG] | [1681736713] | sock wait succ, counts: 1 fds are ready to handle
+[ERROR] | [1681736713] | client reading quit-11:Resource temporarily unavailable
+[DEBUG] | [1681736713] | sock: 8 throw exception, has been closed
+[DEBUG] | [1681736715] | sock wait succ, counts: 1 fds are ready to handle
+[DEBUG] | [1681736715] | sock: 6 数据发送完成，发送缓冲区已空
+[DEBUG] | [1681736715] | sock wait succ, counts: 1 fds are ready to handle
+[DEBUG] | [1681736715] | sock: 6 数据发送完成，发送缓冲区已空
+[DEBUG] | [1681736715] | sock wait succ, counts: 1 fds are ready to handle
+[DEBUG] | [1681736715] | sock: 6 数据发送完成，发送缓冲区已空
+[DEBUG] | [1681736716] | sock wait succ, counts: 1 fds are ready to handle
+[ERROR] | [1681736716] | client reading quit-11:Resource temporarily unavailable
+[DEBUG] | [1681736716] | sock: 6 throw exception, has been closed
+[DEBUG] | [1681736720] | sock wait succ, counts: 1 fds are ready to handle
+[DEBUG] | [1681736720] | sock: 5 数据发送完成，发送缓冲区已空
+[DEBUG] | [1681736720] | sock wait succ, counts: 1 fds are ready to handle
+[DEBUG] | [1681736720] | sock: 5 数据发送完成，发送缓冲区已空
+[DEBUG] | [1681736721] | sock wait succ, counts: 1 fds are ready to handle
+[DEBUG] | [1681736721] | sock: 7 数据发送完成，发送缓冲区已空
+[DEBUG] | [1681736721] | sock wait succ, counts: 1 fds are ready to handle
+[DEBUG] | [1681736721] | sock: 7 数据发送完成，发送缓冲区已空
+[DEBUG] | [1681736722] | sock wait succ, counts: 1 fds are ready to handle
+[DEBUG] | [1681736722] | sock: 7 数据发送完成，发送缓冲区已空
+[DEBUG] | [1681736725] | sock wait succ, counts: 1 fds are ready to handle
+[DEBUG] | [1681736725] | sock: 5 数据发送完成，发送缓冲区已空
+[DEBUG] | [1681736725] | sock wait succ, counts: 1 fds are ready to handle
+[DEBUG] | [1681736725] | sock: 5 数据发送完成，发送缓冲区已空
+[DEBUG] | [1681736727] | sock wait succ, counts: 1 fds are ready to handle
+[ERROR] | [1681736727] | client reading quit-11:Resource temporarily unavailable
+[DEBUG] | [1681736727] | sock: 7 throw exception, has been closed
+[DEBUG] | [1681736728] | sock wait succ, counts: 1 fds are ready to handle
+[ERROR] | [1681736728] | client reading quit-11:Resource temporarily unavailable
+[DEBUG] | [1681736728] | sock: 5 throw exception, has been closed
+[DEBUG] | [1681739065] | sock: 3 registration done
+[NORMAL] | [1681739065] | server init done, listen_sock: 3, epoll_sock: 4
+[DEBUG] | [1681739070] | sock wait succ, counts: 1 fds are ready to handle
+[NORMAL] | [1681739070] | get a client
+[DEBUG] | [1681739070] | sock: 5 registration done
+[DEBUG] | [1681739070] | client ip:[127.0.0.1] port[58914], service_sock: 5 accepted succ
+[ERROR] | [1681739070] | no connection ready-11:Resource temporarily unavailable
+[DEBUG] | [1681739077] | sock wait succ, counts: 1 fds are ready to handle
+[DEBUG] | [1681739077] | sock: 5 数据发送完成，发送缓冲区已空
+[DEBUG] | [1681739080] | sock wait succ, counts: 1 fds are ready to handle
+[ERROR] | [1681739080] | client reading quit-11:Resource temporarily unavailable
+[DEBUG] | [1681739080] | sock: 5 throw exception, has been closed
+[DEBUG] | [1681739081] | sock wait succ, counts: 1 fds are ready to handle
+[NORMAL] | [1681739081] | get a client
+[DEBUG] | [1681739081] | sock: 5 registration done
+[DEBUG] | [1681739081] | client ip:[127.0.0.1] port[58916], service_sock: 5 accepted succ
+[ERROR] | [1681739081] | no connection ready-11:Resource temporarily unavailable
+[DEBUG] | [1681739085] | sock wait succ, counts: 1 fds are ready to handle
+[DEBUG] | [1681739085] | sock: 5 数据发送完成，发送缓冲区已空
+[DEBUG] | [1681739092] | sock wait succ, counts: 1 fds are ready to handle
+[DEBUG] | [1681739092] | sock: 5 数据发送完成，发送缓冲区已空
+[DEBUG] | [1681739093] | sock wait succ, counts: 1 fds are ready to handle
+[ERROR] | [1681739093] | client reading quit-11:Resource temporarily unavailable
+[DEBUG] | [1681739093] | sock: 5 throw exception, has been closed

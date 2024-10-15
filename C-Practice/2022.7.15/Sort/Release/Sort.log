@@ -1,0 +1,11 @@
+﻿  SortFunc.cpp
+D:\Code\博客用刷题素材\Sort\Func.h(1,1): warning C4828: 文件包含在偏移 0x4bc 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  Test.cpp
+D:\Code\博客用刷题素材\Sort\Func.h(1,1): warning C4828: 文件包含在偏移 0x4bc 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+D:\Code\博客用刷题素材\Sort\Test.cpp(38,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  正在生成代码
+  0 of 26 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Sort.vcxproj -> D:\Code\博客用刷题素材\Sort\Release\Sort.exe

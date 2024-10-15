@@ -1,0 +1,8 @@
+/home/shiki/linux_-practice/OnlineJudge/build/CMakeFiles/edit_cache.dir
+/home/shiki/linux_-practice/OnlineJudge/build/CMakeFiles/rebuild_cache.dir
+/home/shiki/linux_-practice/OnlineJudge/build/compile_server/src/CMakeFiles/compile_run_svr.dir
+/home/shiki/linux_-practice/OnlineJudge/build/compile_server/src/CMakeFiles/edit_cache.dir
+/home/shiki/linux_-practice/OnlineJudge/build/compile_server/src/CMakeFiles/rebuild_cache.dir
+/home/shiki/linux_-practice/OnlineJudge/build/oj_server/src/CMakeFiles/oj_server.dir
+/home/shiki/linux_-practice/OnlineJudge/build/oj_server/src/CMakeFiles/edit_cache.dir
+/home/shiki/linux_-practice/OnlineJudge/build/oj_server/src/CMakeFiles/rebuild_cache.dir

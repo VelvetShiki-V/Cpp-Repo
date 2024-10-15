@@ -1,0 +1,18 @@
+贪吃蛇项目雏形代码
+1. Snake.cpp为执行功能的主函数main入口
+2. Func.h为各功能函数的头文件声明
+3. Functions.cpp为各功能函数的具体实现
+4. UI和按钮部分尚未完成
+
+顺序表结构
+1. 头删PopFront
+2. 尾删PopBack
+3. 头插PushFront
+4. 尾插PushBack
+5. 中间插入SLInsert
+6. 擦除SLErase
+7. 顺序表消除SLDestroy
+8. 查找SLFind
+9. 修改SLModify
+10. 初始化顺序表SLInit
+11. 顺序表扩容检查SLCapacity
